@@ -1,0 +1,5 @@
+.vscode/
+/build
+/src/images
+output.txt
+output.jpg

@@ -11,7 +11,7 @@
 ## Установка
 1. Склонируйте этот репозиторий:
 ```bash
-git clone https://github.com/xauvlad/MyProject.git
+git clone https://github.com/xauvlad/converter.git
 ```
 2. Установите OpenCV с помощью vcpkg:
 ```bash
